@@ -12,6 +12,12 @@ root.render(
   <StrictMode>
     <div className="App">
       <Weather />
+      <p>
+        <a href="https://github.com/koshface/weather-app-draft">
+          Open-source code
+        </a>
+        by Emily Noto
+      </p>
     </div>
   </StrictMode>
 );
